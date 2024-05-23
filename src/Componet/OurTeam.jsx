@@ -111,7 +111,7 @@ const OurTeam = () => {
                 <div className="team-img ">
                   <div className=" effect-image-1">
                     <img
-                      src="./assets/img/Team/piyush-sir.jpeg"
+                      src="./assets/img/Team/piyush-sir.JPEG"
                       className="w-100"
                     />
                     <div className="simple-text">
