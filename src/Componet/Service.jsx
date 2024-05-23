@@ -134,7 +134,7 @@ const Service = () => {
       </div>
       <div className="col-lg-4">
         <div className="img fit-img">
-        <img src="/assets/img/service/1.jpg" alt="" />
+        <img src="/assets/img/service/ser1.jpg" alt="" />
           <a href="/page-services-details">
             <i className="fa-solid fa-arrow-right"></i>
           </a>
@@ -168,7 +168,7 @@ const Service = () => {
       </div>
       <div className="col-lg-4">
         <div className="img fit-img">
-        <img src="/assets/img/service/2.jpg" alt="" />
+        <img src="/assets/img/service/ser2.jpg" alt="" />
           <a href="/page-services-details">
             <i className="fa-solid fa-arrow-right"></i>
           </a>
@@ -202,7 +202,7 @@ const Service = () => {
       </div>
       <div className="col-lg-4">
         <div className="img fit-img">
-        <img src="/assets/img/service/3.jpg" alt="" />
+        <img src="/assets/img/service/ser3.jpg" alt="" />
           <a href="/page-services-details">
             <i className="fa-solid fa-arrow-right"></i>
           </a>
